@@ -22,6 +22,8 @@ By the way, before you move on further, dApp development and learning core block
 
 Core blockchain dev requires the study of multiple concepts like cloud computing, cryptography, state machines, and many logical concepts including proofs. Whereas, dApp development is mostly web development and conencting the applications to web 3.0 using frameworks and cryptocurrencies. But you should have a basic understanding of how blockchain works before statrting dApp development.
 
+I recommend reading all the articles before you jump on to any links given. This will help you understand and plan your learning path so that it becomes easier for you to understand.
+
 ### Note 2
 
 There exist an infinite number of resources - blogs, videos, courses, books and more - on the internet from where you can learn more about Bitcoin and Blockchain. It is not possible for us to list all of them here, however we have tried our best to get the best for you. You can still search for them on your own and if you want to contribute to the list here, you can set up a PR for it on our [Github repo](https://github.com/houseofgeeks/resources) and we will add them here. We will be thankful for your contributions!
