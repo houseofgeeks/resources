@@ -14,7 +14,7 @@ Here is a collection of certain blogs and GitHub repositories that might be help
 | [A visual introduction to Machine Learning](http://www.r2d3.us/) | Blog | Visual treat 🤩 |
 | [Josh Meyer's Website](http://jrmeyer.github.io/) | Blog | High level content. |
 | [Machine Learning Mastery](https://machinelearningmastery.com/blog/) | Blog | You will find it one way or another. Debugging erros will eventually take you here. |
-| [Jay Alammar Blog](https://jalammar.github.io/) | Blog | Interactive and brilliant. Especially the one on **Transformers**. Gold. |
+| [Jay Alammar Blog](https://jalammar.github.io/) | Blog | Interactive and brilliant. Especially the one on **[Transformers](https://jalammar.github.io/illustrated-transformer/)**. Gold. |
 | [Towards Data Science](https://towardsdatascience.com/) | Blog | Medium Blogs are always good. Towards Data Science is one of them. |
 | [Applied ML](https://github.com/eugeneyan/applied-ml) | Repo | 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.  |
 | [ML Notebooks](https://github.com/dair-ai/ML-Notebooks) | Repo | 🔥 A series of code examples for all sorts of machine learning tasks and applications.  |
