@@ -1,7 +1,10 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
-
+import "./card.css"
+import SD from "./Logosofsociety/SDlogo.png"
+import Carousel from "react-elastic-carousel"
+/* 
 const FeatureList = [
   {
     title: 'Easy to Use',
@@ -33,8 +36,8 @@ const FeatureList = [
       </>
     ),
   },
-];
-
+]; */
+/* 
 function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
@@ -47,11 +50,45 @@ function Feature({Svg, title, description}) {
       </div>
     </div>
   );
-}
+} */
+import dataofsociety from "./dataofsociety"
+import Items from './Items';
+const breakPoints = [
+  { width: 1, itemsToShow: 1 },
+  { width: 550, itemsToShow: 2, itemsToScroll: 2 },
+  { width: 768, itemsToShow: 3 },
+  { width: 1200, itemsToShow: 4 },
+];
 
 export default function HomepageFeatures() {
   return (
-    <section className={styles.features}>
+    <>
+      <div className="cardcontainer">
+        <h1 style={{ textAlign: "center", margin: "1rem 0 1rem 0" , fontFamily: "Charis SIL, serif" }}>
+          OUR COMMUNITIES
+        </h1>
+        <div className="innerContainer">
+          <Carousel breakPoints={breakPoints}>
+            {dataofsociety.map((data) => {
+              return (
+                <Items
+                  id={data.id}
+                  title={data.title}
+                  description={data.description}
+                  imagesrc={data.imagesrc}
+                ></Items>
+              );
+            })}
+          </Carousel>
+        </div>
+      </div>
+    </>
+  );
+}
+
+
+{
+  /* <section className={styles.features}>
       <div className="container">
         <div className="row">
           {FeatureList.map((props, idx) => (
@@ -59,6 +96,5 @@ export default function HomepageFeatures() {
           ))}
         </div>
       </div>
-    </section>
-  );
+    </section> */
 }
