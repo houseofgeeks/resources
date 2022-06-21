@@ -35,8 +35,7 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/houseofgeeks/resources/tree/main",
+          editUrl: "https://github.com/houseofgeeks/resources/tree/main",
         },
         blog: false,
         // {
@@ -122,6 +121,9 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      colorMode: {
+        defaultMode: "dark",
       },
     }),
 };

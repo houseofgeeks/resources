@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@1,700&family=Playfair+Display:ital,wght@1,600&family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Charis+SIL:wght@700&family=Gentium+Plus:ital,wght@1,700&family=Playfair+Display:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Charis+SIL:wght@700&family=Gentium+Plus:ital,wght@1,700&family=Playfair+Display:ital,wght@1,600&family=Poppins:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+
+
+
+.hg-inside {
+    /* background-color: blue; */
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+.hg-back{
+    background-image: url("../../../static/img/WhatsApp\ Image\ 2022-06-18\ at\ 11.07.51\ PM.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+}
+
+.card{
+    width: 300px;
+    height: 570px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom:1rem ;
+    transition: 0.5s;
+    margin-top: 1rem;
+}
+
+.card:hover{
+    transform: scale(1.03);
+}
+
+.upper-container{
+    height: 200px;
+    background-color: #05acf2;
+
+}
+
+.image-container{
+    background-color: white;
+    width: 80%;
+    height: 230px;
+    border-radius: 50%;
+    padding: 5px;
+    margin: 0 auto; 
+    transform: translateY(40px);
+    background-color: #05acf2;
+}
+
+img{
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.lower-container{
+    margin-top: 60px;
+    text-align: center;
+    padding: 0.2rem;
+}
+
+button{
+    font-size: 1.4rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.title{
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    margin: 1rem;
+}
+
+.description{
+    font-family: 'Raleway', sans-serif;
+}
+
+.cardcontainer{ 
+  padding: 1rem 0 1rem 0;
+}
+
+.innerContainer{
+    width: 100%;
+    margin: 0 auto;
+    
+    
+}
+
+.House-of-geeks-intro{
+    font-size: 5rem;
+    color: white;
+}
+
+.Alexandria-library{
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+}
+
+@media screen and (max-width:670px){
+    .House-of-geeks-intro {
+            font-size: 3.4rem;
+        }
+     .Alexandria-library {
+                    font-size: 2rem;
+       }
+       .hg-inside{
+        justify-content: center;
+        padding: 3rem 0 0 0 ;
+       }
+}
+
+@media screen and (max-width: 480px) {
+    .image-container{
+        width: 200px;
+         height: 200px;
+        
+    }
+    .innerContainer{
+        width:100%;
+    }
+    .title{
+        margin: 0.5rem;
+
+    }
+    .lower-container{
+        padding: 1rem;
+    }
+    .House-of-geeks-intro{
+        font-size: 2.2rem;
+    }
+    .Alexandria-library{
+        font-size: 1.4rem;
+    }
+    
+}
