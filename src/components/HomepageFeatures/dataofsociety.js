@@ -1,10 +1,11 @@
 
-import SDlogo from "../../../static/img/WebDev.png";
-import Robotics from "../../../static/img/robotics.png";
-import CP from "../../../static/img/Cp.png";
-import coreElectronics from "../../../static/img/robotics.png";
-import BlockchainCyber from "../../../static/img/BlockchainCyber.png";
-import AIandDS from "../../../static/img/MLAI.png";
+import SDlogo from "./Logosofsociety/SDlogo.png"
+import Robotics from "./Logosofsociety/Robotics.png";
+import IOT from "././Logosofsociety/IOT.png";
+import CP from "./Logosofsociety/CP.png";
+import coreElectronics from "./Logosofsociety/coreElectronics.png";
+import BlockchainCyber from "./Logosofsociety/BlockchainCyber.png";
+import AIandDS from "./Logosofsociety/AIandDS.png";
 const dataofsociety = [
   {
     id: "1",
@@ -30,7 +31,7 @@ const dataofsociety = [
   },
   {
     id: "5",
-    title: "Community Of Core Electronics and IOT",
+    title: "Community Of Core Electronics",
     description:
       "Electronics and IoT community has the sole objective of inculcating a spirit of developing innovative technology solutions to real life problems. We provide a platform to the students’ body where any individual with an idea can approach the club freely  ",
     imagesrc: coreElectronics,
@@ -42,12 +43,18 @@ const dataofsociety = [
       "Does that image of R2D2 inspire you to create a personal one for yourself? If you have ever even secretly aspired to build your own robot, then the Robotics Community, IIIT Ranchi is the place for you! One on one guidance, workshops and tutorials along with tools ",
     imagesrc: Robotics,
   },
-  
+  {
+    if: "7",
+    title: "Community Of Internet Of Things",
+    description:
+      "Electronics and IoT community has the sole objective of inculcating a spirit of developing innovative technology solutions to real life problems. We provide a platform to the students’ body where any individual with an idea can approach the club freely  ",
+    imagesrc: IOT,
+  },
   {
     id: "3",
-    title: "Community Of Cybersecurity And BlockChain",
+    title: "Community Of Cybersecurity, Cryptography And BlockChain",
     description:
-      "Blockchain and Cybersecurity community has been focusing on the concepts that has been revolutionizing the modern tech world. We are newly established and responsible for walking students through the path of security and innovation.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum obcaecati itaque autem fugit quasi? Accusamus.",
     imagesrc: BlockchainCyber,
   },
 ];
