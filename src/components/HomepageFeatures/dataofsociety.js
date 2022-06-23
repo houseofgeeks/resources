@@ -1,10 +1,10 @@
 
-import SDlogo from "../../../static/img/webdev.png";
-import Robotics from "../../../static/img/robotics.png";
-import CP from "../../../static/img/cp.png";
-import coreElectronics from "../../../static/img/elec.png";
-import BlockchainCyber from "../../../static/img/blockchaincyber.png";
-import AIandDS from "../../../static/img/mlai.png";
+import SDlogo from "../../../static/img/webdev_test.png";
+import Robotics from "../../../static/img/robotics_test.png";
+import CP from "../../../static/img/cp_test.png";
+import coreElectronics from "../../../static/img/elec_test.png";
+import BlockchainCyber from "../../../static/img/blockchaincyber_test.png";
+import AIandDS from "../../../static/img/mlai_test.png";
 
 const dataofsociety = [
   {
