@@ -51,7 +51,7 @@
 }
 
 .easter-egg:hover:before {
-  background: url("/Users/kaustubh/Desktop/Projects/resources/static/img/1F510.svg")
+  background: url("../../static/img/1F510.svg")
     no-repeat;
   content: "";
   display: flex;
