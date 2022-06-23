@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "The House Of Geeks’ Library of Alexandria.",
+  title: "Resources",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/hg-dark.ico",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -73,7 +73,14 @@ const config = {
           {
             href: "https://github.com/houseofgeeks/",
             position: "right",
-            label: "GitHub",
+            className: "header-github-link",
+            "aria-label": "GitHub repository",
+          },
+          {
+            href: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            position: "right",
+            className: "easter-egg",
+            "aria-label": "Rick Astley",
           },
         ],
       },
@@ -124,6 +131,8 @@ const config = {
       },
       colorMode: {
         defaultMode: "dark",
+        disableSwitch: true, // disabling light mode for now.
+        respectPrefersColorScheme: true,
       },
     }),
 };
