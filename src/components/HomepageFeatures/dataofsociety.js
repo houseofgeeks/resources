@@ -1,4 +1,3 @@
-
 import SDlogo from "../../../static/img/webdev_test.png";
 import Robotics from "../../../static/img/robotics_test.png";
 import CP from "../../../static/img/cp_test.png";
@@ -43,12 +42,18 @@ const dataofsociety = [
       "Does that image of R2D2 inspire you to create a personal one for yourself? If you have ever even secretly aspired to build your own robot, then the Robotics Community, IIIT Ranchi is the place for you! One on one guidance, workshops and tutorials along with tools ",
     imagesrc: Robotics,
   },
-  
+  {
+    if: 7,
+    title: "Community Of Internet Of Things",
+    description:
+      "Electronics and IoT community has the sole objective of inculcating a spirit of developing innovative technology solutions to real life problems. We provide a platform to the students’ body where any individual with an idea can approach the club freely  ",
+    imagesrc: IOT,
+  },
   {
     id: 3,
     title: "Community Of Cybersecurity And BlockChain",
     description:
-      "Blockchain and Cybersecurity community has been focusing on the concepts that has been revolutionizing the modern tech world. We are newly established and responsible for walking students through the path of security and innovation.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum obcaecati itaque autem fugit quasi? Accusamus.",
     imagesrc: BlockchainCyber,
   },
 ];
