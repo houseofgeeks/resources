@@ -1,4 +1,3 @@
-
 import SDlogo from "../../../static/img/webdev_test.png";
 import Robotics from "../../../static/img/robotics_test.png";
 import CP from "../../../static/img/cp_test.png";
@@ -43,7 +42,6 @@ const dataofsociety = [
       "Does that image of R2D2 inspire you to create a personal one for yourself? If you have ever even secretly aspired to build your own robot, then the Robotics Community, IIIT Ranchi is the place for you! One on one guidance, workshops and tutorials along with tools ",
     imagesrc: Robotics,
   },
-  
   {
     id: 3,
     title: "Community Of Cybersecurity And BlockChain",
@@ -53,4 +51,4 @@ const dataofsociety = [
   },
 ];
 
-export default dataofsociety
+export default dataofsociety;
