@@ -43,19 +43,12 @@ const dataofsociety = [
     imagesrc: Robotics,
   },
   {
-    if: 7,
-    title: "Community Of Internet Of Things",
-    description:
-      "Electronics and IoT community has the sole objective of inculcating a spirit of developing innovative technology solutions to real life problems. We provide a platform to the students’ body where any individual with an idea can approach the club freely  ",
-    imagesrc: IOT,
-  },
-  {
     id: 3,
     title: "Community Of Cybersecurity And BlockChain",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum obcaecati itaque autem fugit quasi? Accusamus.",
+      "Blockchain and Cybersecurity community has been focusing on the concepts that has been revolutionizing the modern tech world. We are newly established and responsible for walking students through the path of security and innovation.",
     imagesrc: BlockchainCyber,
   },
 ];
 
-export default dataofsociety
+export default dataofsociety;
