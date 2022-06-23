@@ -73,7 +73,7 @@ There are other frameworks worth exploring. These include the python based Flask
 
 | Course | Format and Skills | Details |
 |--------|-------------------|---------|
-| [Official Documentation](https://www.djangoproject.com/start/) | docs: Django | An official walkthrough |
+| [Official Documentation](https://www.djangoproject.com/start/) | docs: Django | An official walkthrough. This [video tutorial](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) by [Corey Schafer](https://www.youtube.com/c/Coreyms) is also a good start. |
 | [Go By Example](https://gobyexample.com/) | docs: Go | Learning Go through code snippets |
 | [FreeCodeCamp](https://www.youtube.com/watch?v=YS4e4q9oBaU) | video: Go | Crash course style video of Go |
 | [The RustBook](https://doc.rust-lang.org/stable/book/) | docs: Rust | Official Rust documentation. Clearly sufficient |

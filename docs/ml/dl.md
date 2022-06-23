@@ -43,9 +43,9 @@ Once you get the understanding of how a neural network works, we can move forwar
 
 **Alert:** This is not for everyone. Don't even look at it if you're getting started. <br />
 
-> These are helpful for **Research Enthusiasts**.
+> These are helpful for **``Research Enthusiasts``**.
 
-> Below are the links of lectures from Prof. Ali Ghodsi - University of Waterloo.
+> Below are the links of lectures from **Prof. Ali Ghodsi - University of Waterloo**.
 His explanations are best for understanding deep learning and the mathematics behind it. Refer to this in case you want to go deep, really deep into the mathematics behind deep learning. 
 
 | Course | Format | Details |
