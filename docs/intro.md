@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# What to expect ?
+# What to expect?
 
 Hey there! So you wanna start learning about various technologies and how their use cases have changed the world at large. But you are probably lost in blogs, video tutorials and courses scrambled all over the internet.
 
