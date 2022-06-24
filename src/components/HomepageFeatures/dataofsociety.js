@@ -8,14 +8,14 @@ import AIandDS from "../../../static/img/mlai_test.png";
 const dataofsociety = [
   {
     id: 1,
-    title: "Community of Software Devlopment",
+    title: "Community Of Software Devlopment",
     description:
       "Web and application development community of IIIT Ranchi has been primarily responsible for providing innovative technical solutions to most of the issues in the institute, The sole purpose of our club is developing web application",
     imagesrc: SDlogo,
   },
   {
     id: 2,
-    title: "Community Of Data Science And Artificial Intelligence",
+    title: "Community Of Data Science and Artificial Intelligence",
     description:
       "Machine learning community of IIIT Ranchi aims at building and fostering a vibrant machine learning community. Our members gain a unique opportunity to develop machine learning solutions tailored towards relevant and specific industry challenges.",
     imagesrc: AIandDS,
@@ -37,14 +37,14 @@ const dataofsociety = [
   },
   {
     id: 6,
-    title: "Community Of Robotics And Automation",
+    title: "Community Of Robotics and Automation",
     description:
       "Does that image of R2D2 inspire you to create a personal one for yourself? If you have ever even secretly aspired to build your own robot, then the Robotics Community, IIIT Ranchi is the place for you! One on one guidance, workshops and tutorials along with tools ",
     imagesrc: Robotics,
   },
   {
     id: 3,
-    title: "Community Of Cybersecurity And BlockChain",
+    title: "Community Of Cybersecurity and BlockChain",
     description:
       "Blockchain and Cybersecurity community has been focusing on the concepts that has been revolutionizing the modern tech world. We are newly established and responsible for walking students through the path of security and innovation.",
     imagesrc: BlockchainCyber,
