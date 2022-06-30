@@ -1,41 +1,17 @@
-# Website
+# Resource Library @hG
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+![landing page](static/img/landing_page.png)
 
-### Installation
+This is a collection of the various resources that we believe are ample for one to start in the various fields.
 
-```
-$ yarn
-```
+## Navigation
 
-### Local Development
+Access the docs via the `Let's get you started` button, or via the Resources section of the Nav.
 
-```
-$ yarn start
-```
+## Contribution
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Please go through the `CONTRIBUTING.md` file to familiarise with the process of managing git and versions for this repo. If you are willing to see a resource on the site, create an issue so that the quality of the resource could be verified.
 
-### Build
+You can also check the following doc to see if there are any links staged to be added:
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+[Buffer Doc](https://docs.google.com/document/d/1aC06zjRTflvcY4aDnRet8EGXr-qMuJFJ2Xx4WdgfTzQ/edit?usp=sharing)
