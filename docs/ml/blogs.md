@@ -27,6 +27,6 @@ Here is a collection of certain blogs and GitHub repositories that might be help
 
 ## [Cheatsheets](https://drive.google.com/drive/folders/1ohZTJtr1lcDeo-1901_n4Dxiszth4erV?usp=sharing)
 
-Quickly want to revise all the important concepts. Here's a [google drive folder](https://drive.google.com/drive/folders/1ohZTJtr1lcDeo-1901_n4Dxiszth4erV?usp=sharing) that contains short notes for all ML related things. <br />
+Quickly want to revise all the important concepts. Here's a [google drive folder](https://drive.google.com/drive/folders/1U5QhOFY4tUhiQA5vJkO260JoxVHrGh5t) that contains short notes for all ML related things. <br />
 
 Until next time! 🚀
