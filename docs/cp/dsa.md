@@ -20,18 +20,6 @@ Let’s just jump into the resources already:
 | [take U forward - YouTube](https://youtube.com/c/takeUforward) | Learn/Practice |
 | [Pepcoding - YouTube](https://youtube.com/c/Pepcoding) | Learn/Practice/Recursion playlist recommended |
 | [DSA Sheet by Arsh](https://docs.google.com/spreadsheets/u/0/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/htmlview) | Practice |
+| [Interviewbit targeted DSA course](https://www.interviewbit.com/courses/programming/?s=08) | Learn/Practice |
 
 **I personally have little experience here, so this will take the combined efforts of everyone, please do let us know of other important resources.**
-
-
-
-
-
-
-
-
-
-
-
-
-
