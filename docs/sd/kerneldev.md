@@ -12,6 +12,7 @@ All things OSDev and how the different parts of the master program assemble toge
 |--------|-------------------|---------|
 | [Wisconson Uni](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html) | videos, docs: OS | The perfect class for everything Operating Systems |
 | [Tanenbaum](https://1lib.in/book/11020920/f01784) | docs: OS | A highly regarded book for OS |
+| [Fenollosa](https://github.com/cfenollosa/os-tutorial) | code: OS | Step by step guide to make a basic OS on your own, with some setup tools |
 | [Nystrom](https://craftinginterpreters.com/) | docs: Scripting | How optimal interpreters are created |
 | [OSDev Wiki](https://wiki.osdev.org/GCC_Cross-Compiler) | docs: OS | Assembling a cross compiler for development purposes. [OSDev](https://wiki.osdev.org) Wiki is a treause in itself |
 | [James Hague](https://prog21.dadgum.com/30.html) | docs: Compiler | An approach to understand the development of compilers |
