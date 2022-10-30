@@ -1,12 +1,13 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# Web Development
+# Web Development (GFG)
 
 Whatever aspect of goals🥇 of web development attracts you, we have programs that can help you reach your goals.
 
 ## Frontend Development
+
 This course📚 will help geeks🧑‍💻 knowing about static web page layout using HTML elements. Also geeks will dive into the fundamentals of CSS where we will learn to customize the look of web pages.
 We understand the needs of our freshers and we believe that a student needs to get introduced to a new language💻 first in a proper manner before going on to tackle the bigger projects. For that check out:
 
